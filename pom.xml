@@ -74,4 +74,8 @@
   </build>
 </project>
 
-
+<repository>
+  <id>maven-releases</id>
+  <name>maven-releases</name>
+  <url>http://13.126.124.159:8081/repository/maven-releases/</url>
+</repository>
