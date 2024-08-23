@@ -77,5 +77,5 @@
 <repository>
   <id>maven-releases</id>
   <name>maven-releases</name>
-  <url>http://localhost:8081/repository/mvn_nexus/</url>
+  <url>http://localhost:8081/repository/docker-hosted/</url>
 </repository>
